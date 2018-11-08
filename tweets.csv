@@ -1,352 +1,294 @@
 ,tweet_id,text,favorite_count,retweet_count,created_at
-0,1056647627062661121,"RT @RalstonReports: The turnout models are looking better for Democrats in Nevada as they boost their statewide lead a bit, but long way to…",0,15,Sun Oct 28 20:43:20 +0000 2018
-1,1056647041093373952,[Cheat Sheet] Python Basics For Data Science https://t.co/fH07ZFF9zw,2,1,Sun Oct 28 20:41:00 +0000 2018
-2,1056640802401615872,"RT @Popehat: NYT:  Well, Okay, But Are People Mean To Trump?
-Everyone: Can you not
-NYT:  Jazz: What If Black People Got Involved In Jazz
-Ev…",0,620,Sun Oct 28 20:16:13 +0000 2018
-3,1056639940438544384,https://t.co/txeJ3g9IMW,1,1,Sun Oct 28 20:12:47 +0000 2018
-4,1056638994203729922,IBM and NVIDIA collaborate to expand machine learning tools for data scientists. Learn how:  https://t.co/nslIPVLGOD #ODSC #ODSCWest,3,1,Sun Oct 28 20:09:02 +0000 2018
-5,1056637432886571008,"Argyle only smiles when you vote 🐶
+0,1060588577602433024,RT @redsteeze: Same thing that happened to the Kavanaugh gang rape investigation https://t.co/bowon6O8E2,0,22,Thu Nov 08 17:43:16 +0000 2018
+1,1060588463798374401,"My thoughts and prayers are with the families who lost loved ones last night in Thousand Oaks, CA!!!! 🙏🏾🙏🏾🙏🏾💯 #LoveIsStrongerThanHate💪🏾",564,190,Thu Nov 08 17:42:49 +0000 2018
+2,1060588065238839298,"RT @PodSaveAmerica: ""Look at Beto O'Rourke, Stacey Abrams and Andrew Gillum, and the movement and people they've inspired, and then you tel…",0,184,Thu Nov 08 17:41:14 +0000 2018
+3,1060588005969149952,"RT @KSoltisAnderson: One more thing, and this is the real punch in the face for Republicans: Millennials are now into their mid-30s. And lo…",0,127,Thu Nov 08 17:41:00 +0000 2018
+4,1060587972452466688,"RT @realDailyWire: SALE: @BenShapiro 2024 Facts &gt; Feelings’ shirt on sale this week only! 
 
-@darth https://t.co/SfJv4VKHRh",18,2,Sun Oct 28 20:02:50 +0000 2018
-6,1056636949472133122,Simple Proof of the Prime Number Theorem https://t.co/Iif9cOgrco,0,1,Sun Oct 28 20:00:54 +0000 2018
-7,1056636949363073024,Analyzing the relationship of Twitter users towards brands (e. g. Air Berlin) https://t.co/TyKd8nwTIw,1,1,Sun Oct 28 20:00:54 +0000 2018
-8,1056636472588156930,7 Steps to Build a Data-Driven Culture in your Organization https://t.co/Xfw1jvHqIO,2,2,Sun Oct 28 19:59:01 +0000 2018
-9,1056634195336847360,"RT @mdub2829: @JohnCornyn @FreeBeacon @JonnCornyn This is from an article published a week ago about the economics of climate change, and y…",0,225,Sun Oct 28 19:49:58 +0000 2018
-10,1056633400927313920,RT @xeni: Don’t know about you but I woke up ready to fight Nazis and defend my fellow Americans and vote these white supremacist sons of b…,0,277,Sun Oct 28 19:46:48 +0000 2018
-11,1056631894710804480,RT @LeslieMac: White Nationalist Who Threatened Stacey Abrams' Campaign Poses for Picture With Brian Kemp https://t.co/bn3NXxtsRp,0,108,Sun Oct 28 19:40:49 +0000 2018
-12,1056631567685083136,"RT @ClaraJeffery: Do not work for Fox.
-Do not appear on Fox.
-Boycott Fox's advertisers.
-Do not act as an enabler. 
-Make spewing poison have…",0,1057,Sun Oct 28 19:39:31 +0000 2018
-13,1056631544335368192,"RT @Lawrence: Steve Bannon's ex-wife said under oath he didn't want his daughters to go to a school because it had too many Jews.
-No Bannon…",0,5244,Sun Oct 28 19:39:26 +0000 2018
-14,1056629527156219904,RT @alejandracano1: Georgia https://t.co/xK3uMnuyHe,0,13780,Sun Oct 28 19:31:25 +0000 2018
-15,1056628570276020224,RT @MotherJones: A GOP congressman met with a group founded by a Nazi—while on a Holocaust memorial trip https://t.co/jPaEqCV9eR https://t.…,0,460,Sun Oct 28 19:27:37 +0000 2018
-16,1056627975934767104,RT @washingtonpost: Fact Checker: In an effort to justify holding a campaign rally after 11 people at a synagogue were gunned down in Pitts…,0,682,Sun Oct 28 19:25:15 +0000 2018
-17,1056626666301079553,RT @hgoemans: Makes me sick: ''Rabbi David Lau said that “any murder of any Jew in any part of the world for being Jewish is unforgivable.”…,0,4,Sun Oct 28 19:20:03 +0000 2018
-18,1056625998446256128,RT @Victor_Asal: Israel's chief rabbi refuses to call Pittsburgh massacre site a synagogue because it's non-Orthodox - Israel News https://…,0,7,Sun Oct 28 19:17:23 +0000 2018
-19,1056625814093975552,"RT @teamabrams: #TeamAbrams, @staceyabrams, and @common are leading Souls to the Polls! Get out and VOTE: https://t.co/RnfXUctIio #GAGov #g…",0,135,Sun Oct 28 19:16:39 +0000 2018
-20,1056625774420094976,"RT @Yair_Rosenberg: ""Synagogue victims Cecil and David Rosenthal remembered as loving, inseparable"" https://t.co/Py9M5f0vWv",0,29,Sun Oct 28 19:16:30 +0000 2018
-21,1056623893350400006,"Join Olivier Blais, Head of Data at Flinks at Accelerate AI in San Francisco, Oct 31 - Nov 1. #AI #ODSC #ODSCWest
-https://t.co/AwwiS915Ki https://t.co/kM6ichWmlK",1,0,Sun Oct 28 19:09:01 +0000 2018
-22,1056622129897242624,"What pays most: R, Python, or SQL? https://t.co/86CsHViVQT",18,13,Sun Oct 28 19:02:01 +0000 2018
-23,1056620866199527424,How to Solve the New $1 Million Kaggle Problem - Home Value Estimates https://t.co/Vr4naGZLz2,3,2,Sun Oct 28 18:57:00 +0000 2018
-24,1056619323265937409,"RT @MicheleChabin1: Via someone who knew the two youngest victims: ""Cecil and David Rosenthal, were two developmentally disabled brothers w…",0,21,Sun Oct 28 18:50:52 +0000 2018
-25,1056619274339418112,"RT @tsengputterman: Remember when the Trump Administration issued a Holocaust Remembrance Day statement that failed to mention ""Jews"" or ""a…",0,43,Sun Oct 28 18:50:40 +0000 2018
-26,1056617176721952771,Essential Math for Data Science https://t.co/StKvtDL0iJ,69,33,Sun Oct 28 18:42:20 +0000 2018
-27,1056617047315099649,"RT @BecomingDataSci: How to learn data science if you're broke
-https://t.co/syTz9glXSC
+&lt;Air horn&gt; =&gt; https://t.co/HkqCaeJSPf https://t…",0,3,Thu Nov 08 17:40:52 +0000 2018
+5,1060587769469136897,RT @DKElections: Let's not lose sight of the fact that Democrats have flipped more House seats than they did in 2006 (and are on path to pi…,0,36,Thu Nov 08 17:40:03 +0000 2018
+6,1060587741832867840,RT @creynoldsnc: This entire cycle @Schriock1 has said that we are going to deliver the majority with women.  I will confess that there wer…,0,17,Thu Nov 08 17:39:57 +0000 2018
+7,1060587698946101249,"RT @JesseCharlesLee: Nixon at the peak of Watergate, right in front of our eyes. https://t.co/kVWDV7ekkO https://t.co/teKwbKpNef",0,32,Thu Nov 08 17:39:46 +0000 2018
+8,1060587559930089472,"RT @chrislhayes: People aren’t objecting to firing Sessions! They’re objecting to making Whitaker acting AG, when you can easily fire Sessi…",0,3760,Thu Nov 08 17:39:13 +0000 2018
+9,1060587270447673344,RT @neontaster: Literally one minute apart. https://t.co/XmHkwQbxM1,0,135,Thu Nov 08 17:38:04 +0000 2018
+10,1060586587464101888,"We'll be covering the world chess championship match, which begins Friday. https://t.co/TMyJe0ndRP",14,1,Thu Nov 08 17:35:21 +0000 2018
+11,1060586539925684224,"RT @ringer: Dear Vegas,
+@ryenarussillo, @bykevinclark, and @robertmays are coming your way for a special #DualThreat x #NFLShow recording a…",0,3,Thu Nov 08 17:35:10 +0000 2018
+12,1060586112949907456,"Collins and Menendez MASSIVELY underperformed the fundamentals. (There's still an outside chance that Collins loses, BTW). Hunter to a slightly lesser extent. Scandals had a BIG effect on these races. https://t.co/DqdEoGSJBG",268,57,Thu Nov 08 17:33:28 +0000 2018
+13,1060585318905200641,A symbol of diverse cultures united across our City. #WearNewYork https://t.co/A7JEv0Q4XF,101,18,Thu Nov 08 17:30:19 +0000 2018
+14,1060585298168635392,Cardi was in her bag on this one https://t.co/3M31vDbGcX,42,5,Thu Nov 08 17:30:14 +0000 2018
+15,1060585289230442496,"RT @redsteeze: ""Actually kicking in the front doors of political pundits I don't like is good"" is not a standard I'm guessing Yglesias want…",0,125,Thu Nov 08 17:30:12 +0000 2018
+16,1060585259773775872,RT @jpodhoretz: Sounds like Nelson's lawyer is going to argue Florida should incept votes from properly executed ballots that have blank ar…,0,42,Thu Nov 08 17:30:05 +0000 2018
+17,1060585246301843456,#1train #2train and #3train have service change  #NYCsubway https://t.co/jh4U3Ctg8s,0,0,Thu Nov 08 17:30:02 +0000 2018
+18,1060585152735133696,RT @ZekeJMiller: ATLANTA (AP) — Stacey Abrams' campaign says it will continue fighting in Georgia governor's race; won't accept Kemp victor…,0,141,Thu Nov 08 17:29:39 +0000 2018
+19,1060585106891571200,VIDEO: Derrick Rose Has NSFW Message for Lakers After Drilling 3-Pointer Over Lonzo Ball https://t.co/6bo4OYKNbn,2,0,Thu Nov 08 17:29:28 +0000 2018
+20,1060584766007922689,"DaBaby says he was shopping with his family in Walmart when he was approached by two men who pulled a gun on him. Shortly afterwards, a deadly shooting took place
+https://t.co/SVRSx0llMB",27,4,Thu Nov 08 17:28:07 +0000 2018
+21,1060584608998158336,"RT @melissakchan: As someone who has had my press credentials denied by authoritarian China, I never thought I'd see this crap happen in th…",0,22453,Thu Nov 08 17:27:30 +0000 2018
+22,1060584491092205570,"Now that Sessions is actually leaving, the fate of Mueller’s probe looks a lot more uncertain. https://t.co/3fZdv0syUD",12,8,Thu Nov 08 17:27:02 +0000 2018
+23,1060583508748439552,#HeadbandBron undefeated in LA 😂 https://t.co/hBqqmJJhjt,343,86,Thu Nov 08 17:23:07 +0000 2018
+24,1060583491430100992,RT @brianschatz: The media got played. https://t.co/9nmMRNCqg3,0,708,Thu Nov 08 17:23:03 +0000 2018
+25,1060583392813543424,"RT @oneunderscore__: 😘👌
+https://t.co/81vKfECUAg",0,18,Thu Nov 08 17:22:40 +0000 2018
+26,1060583027439534085,"Here are your nominees for this week's #Shaqtin! 😂
 
-h/t @patrickDurusau",0,50,Sun Oct 28 18:41:49 +0000 2018
-28,1056614443914674178,Someone put this owl in the planter in front of my house and is it a voodoo curse? https://t.co/zsSNk4gGoG,5,0,Sun Oct 28 18:31:29 +0000 2018
-29,1056610976311595008,"RT @Ronald_vanLoon: The Future of #DataScience in One Picture
- by @granvilledsc @DataScienceCtrl @AnalyticBridge @BoozAllen |
+Vote for your favorite moment in the poll below. ⬇️",96,37,Thu Nov 08 17:21:13 +0000 2018
+27,1060582798719762432,"Unveiled these a week ago.
 
-Read more he…",0,19,Sun Oct 28 18:17:42 +0000 2018
-30,1056610883185532929,"RT @KirkDBorne: A Research #DataScientist Explains #DeepLearning: https://t.co/btd9Bkx60i #abdsc 
+More City Edition news coming today... https://t.co/PQzS3UIeUa",80,18,Thu Nov 08 17:20:18 +0000 2018
+28,1060582040347783168,"RT @earlxsweat: WHO MADE THAT FUCKIN BEAT, U ASKED ?? @Kingsunnydey and the God Booliemane aka Darryl Johnson 😭😭😭⛽️⛽️⛽️",0,563,Thu Nov 08 17:17:17 +0000 2018
+29,1060582027500703744,"RT @earlxsweat: YEEAAAAOEOOEOEOE TO SAY IM EXCITED TO B GIVING YALL MUSIC IS BIG UNDERSTATEMENT. THIS YEAR BEEN THE ROUGHEST OF MY LIFE, BU…",0,9781,Thu Nov 08 17:17:14 +0000 2018
+30,1060581963415744513,"RT @noamscheiber: I agree with @NateSilver538 that an electoral-college strategy build around MI, WI, PA in 2020 is looking very viable aft…",0,51,Thu Nov 08 17:16:59 +0000 2018
+31,1060581955929104384,"RT @Lilpeep: COWYS2 comes out tomorrow.  Some local stores will be carrying the pink cassette and limited 2LP vinyl version, as well as the…",0,993,Thu Nov 08 17:16:57 +0000 2018
+32,1060581492898828288,Very rare https://t.co/aC0zNonUYG,45,6,Thu Nov 08 17:15:07 +0000 2018
+33,1060581462146199553,RT @ShadyMadeMe6: @LiveLiteMarcel @MikeWiLLMadeIt @creedmovie When is the tracklist droppin?,0,1,Thu Nov 08 17:14:59 +0000 2018
+34,1060580856572592128,RT @antall_en: Omfg @MikeWiLLMadeIt I love you bruh!!!! This is legendary af! https://t.co/grEhlc9LWd,0,3,Thu Nov 08 17:12:35 +0000 2018
+35,1060580486827950080,RT @LiveLiteMarcel: @MikeWiLLMadeIt had a listening party for @creedmovie . Every song Slaps,0,3,Thu Nov 08 17:11:07 +0000 2018
+36,1060580374961635328,Thank God for the day!,1819,921,Thu Nov 08 17:10:40 +0000 2018
+37,1060580035390631936,It’s true that many House Republicans will have one more election to cling to their gerrymandered seats before many new Democratic governors and legislatures get to redraw the maps. https://t.co/vO0x4ihVKq,794,125,Thu Nov 08 17:09:19 +0000 2018
+38,1060579898790576128,"Another day, another opportunity..",384,168,Thu Nov 08 17:08:47 +0000 2018
+39,1060579136085749760,MOOD 😂When’s the shirt dropping @PUMAHoops https://t.co/qJkEud66y5,219,43,Thu Nov 08 17:05:45 +0000 2018
+40,1060579011456315392,".@smino’s ‘NØIR’ is out now with features from @dreezydreezy, @valee, @ravynlenae and more. What’s your favorite track so far? 🤔 https://t.co/3kyAllxv1e",52,17,Thu Nov 08 17:05:15 +0000 2018
+41,1060577739982471168,6ix9ine has some new music on the way https://t.co/Tc6lXufMzT,74,15,Thu Nov 08 17:00:12 +0000 2018
+42,1060577218680774659,".@playboicarti has new music on the way. 
 
-#BigData #DataScience #AI #MachineLearni…",0,17,Sun Oct 28 18:17:20 +0000 2018
-31,1056610675194134528,RT @schmarzo: At least 21% of #CIOs are confused by #DigitalTransformation! Try these 3 elements of 'Intelligence Transformation' to reengi…,0,13,Sun Oct 28 18:16:30 +0000 2018
-32,1056610576820928512,"🚨The Midterms are in 8 days 🚨
+Listen to a preview of some tracks on his forthcoming project  https://t.co/yWQxLUbRSE",161,36,Thu Nov 08 16:58:08 +0000 2018
+43,1060576170377244672,RT @EliLake: Mazel Tov to my friend @sohrabahmari on his new gig as op-ed editor of @nypost,0,5,Thu Nov 08 16:53:58 +0000 2018
+44,1060575615911247872,RT @danpfeiffer: I have worked on one recount with @marceelias and prepared for a couple more and he is not someone who uses hyperbole. He…,0,209,Thu Nov 08 16:51:46 +0000 2018
+45,1060575088150372357,RT @redsteeze: Racist Democrats is why John James lost. https://t.co/JM6oAJhNiC,0,759,Thu Nov 08 16:49:40 +0000 2018
+46,1060575034693931008,"RT @DavidRutz: Domestic terrorism as a strategy, explained https://t.co/aENQe0YLRc",0,719,Thu Nov 08 16:49:27 +0000 2018
+47,1060574495075905538,Also follow Nathaniel Rakich (@baseballot) for more on the uncalled races beat. We're going to try to be a go-to source for you on this stuff.,91,10,Thu Nov 08 16:47:18 +0000 2018
+48,1060574274828812288,"What is clear is the importance of Pennsylvania, Wisconsin and Michigan. https://t.co/EnAtHHzlWN",21,8,Thu Nov 08 16:46:26 +0000 2018
+49,1060574243677765632,"On the other side, we're also moving NY-22 from ""called D"" to Likely D.  https://t.co/u4noA9uaEI",117,21,Thu Nov 08 16:46:18 +0000 2018
+50,1060574240708059136,RT @ryanobles: BREAKING: First @AndrewGillum statement on possible #FLGov recount “It has become clear there are many more outstanding ball…,0,983,Thu Nov 08 16:46:18 +0000 2018
+51,1060573939540393984,"Dipset SZN is here
 
-¡Vote!
+https://t.co/1oZeH9a7jz",53,17,Thu Nov 08 16:45:06 +0000 2018
+52,1060573847655714816,Celtics Unwillingness to Trade Terry Rozier Could Mean They’re Not Sold on Signing Kyrie Long Term https://t.co/2DtRYC1WvG,2,0,Thu Nov 08 16:44:44 +0000 2018
+53,1060573189451931648,"RT @NPR: Christine Blasey Ford is still being harassed, her lawyers say. She's reportedly had to move four times. She's had to pay for a pr…",0,5054,Thu Nov 08 16:42:07 +0000 2018
+54,1060572678304817152,#SIRtrain have delays [SIR] Tottenville-bound trains run on an adjusted schedule #NYC https://t.co/jh4U3Ctg8s,0,0,Thu Nov 08 16:40:05 +0000 2018
+55,1060571868346834944,RT @NoahCRothman: It will be Christie. We can end the speculation right now. https://t.co/8FlGToh1co,0,109,Thu Nov 08 16:36:52 +0000 2018
+56,1060571803595218945,"🆕 THE BREAK 🆕
 
-¡Vote!
+Compton rapper @RoddyRicch has a sound of his own, and his hit single ""Die Young"" shows a lot of promise. Learn more about him on @XXL's The Break https://t.co/WQ1x7mF49N",63,19,Thu Nov 08 16:36:37 +0000 2018
+57,1060571228367454209,"RT @jkylemann: HEY YOU GUYS
 
-¡Vote!
+Here's part four (of four) of THE LEAP on the @ringer. A series where we examine the NBA's next generation of…",0,8,Thu Nov 08 16:34:19 +0000 2018
+58,1060570855233732610,Thread https://t.co/T14jUe9rlG,245,39,Thu Nov 08 16:32:50 +0000 2018
+59,1060570529466327041,ATTENTION NJT CUSTOMERS- The scheduled work on the Port Jervis line this weekend has been CANCELLED. Rail service will operate on a normal schedule. https://t.co/31GfLB8sZK https://t.co/cRA3rXAkk9,1,7,Thu Nov 08 16:31:33 +0000 2018
+60,1060570437904674819,".@KendrickLamar's got a new song on the @MikeWiLLMadeIt-curated 'Creed 2' soundtrack 
 
-¡Vote!
+https://t.co/xPBwRP8GYT",146,22,Thu Nov 08 16:31:11 +0000 2018
+61,1060570384796471297,What went down in the 2018 midterms --&gt; https://t.co/o6YE4kJc7o,8,3,Thu Nov 08 16:30:58 +0000 2018
+62,1060570330576519168,"RT @jmartNYT: .⁦@clairecmc⁩ gets at an important part of rural realignment: nationalizing of media sources. 
 
-¡Vote!
+She said she’d see Fox on TV…",0,624,Thu Nov 08 16:30:45 +0000 2018
+63,1060570180399587329,"What are your thoughts on this?
 
-¡Vote!
+https://t.co/rzZSxkIUXC",34,8,Thu Nov 08 16:30:10 +0000 2018
+64,1060569384803020800,"It's still baseball weather in Arizona, so Joe Harris and Jarrett Allen went to the park and took some cuts at the @Cubs' spring training facility on their day off ☀️⚾ https://t.co/5aA1qs8IoK",57,8,Thu Nov 08 16:27:00 +0000 2018
+65,1060569034893209600,"Gave the Why Not Zer0.1 a little remix so check out The Chaos ... out now in 2 colors!! #whynot 🤷🏾‍♂️ 
+https://t.co/krnpMSOMTU https://t.co/GInjssmjsU",1086,169,Thu Nov 08 16:25:36 +0000 2018
+66,1060568299447173121,"Are the #Cavs’ City Edition unis 🌊 or 🗑? #ThisIsCLE 
+📷: @cavs https://t.co/OpomFy8XuN",64,7,Thu Nov 08 16:22:41 +0000 2018
+67,1060567693156405250,"RT @JustinVerrier: In the Lakers’ 11 games: 9 have passed the crunch time threshold, 6 have been decided by 4 points or fewer, and 3 have h…",0,34,Thu Nov 08 16:20:17 +0000 2018
+68,1060567637028229120,"#Btrain #Dtrain #Ftrain #Mtrain have delays Monday to Friday, until Nov 9Downtown [B] [Q] trains run at a slower speed in the area of 7 Av in Brooklyn #NYCsubway https://t.co/jh4U3Ctg8s",0,0,Thu Nov 08 16:20:03 +0000 2018
+69,1060567476352835584,"A Stantonian Birthday. 🌋
 
-¡Vote!
+Buon compleanno, G! https://t.co/eeGTguAyDG",3140,577,Thu Nov 08 16:19:25 +0000 2018
+70,1060567449593135105,I’ve already gone into preemptive exile. https://t.co/K3uYAVqtw7,51,0,Thu Nov 08 16:19:19 +0000 2018
+71,1060567280864641024,https://t.co/ONHEtwDpoI,13019,5181,Thu Nov 08 16:18:38 +0000 2018
+72,1060566887497637888,(2002) @kobebryant 💭🏆 https://t.co/wUKS0rETtA,278,57,Thu Nov 08 16:17:05 +0000 2018
+73,1060566407509872642,"Feels like people are sleeping on how wild this actually is
 
-¡Vote!
+https://t.co/ZMTjsljzHv",141,24,Thu Nov 08 16:15:10 +0000 2018
+74,1060565630850600965,I am dunked on https://t.co/snVDs2mWiM,115,1,Thu Nov 08 16:12:05 +0000 2018
+75,1060565259616870400,"RT @HotlineJosh: Looking like the national House vote will be awfully similar to 2006.
 
-¡Vote!
+Dems won House vote by 6.4% in 2006.
+Just under tha…",0,22,Thu Nov 08 16:10:36 +0000 2018
+76,1060565144974049280,This is a fair point. https://t.co/HC4Dz31Gff,41,6,Thu Nov 08 16:10:09 +0000 2018
+77,1060564974224003072,I have always known I was going to wind up in an Austrian prison. https://t.co/4bjp9GxfUx,84,2,Thu Nov 08 16:09:28 +0000 2018
+78,1060564728315969536,"RT @RBPundit: Um. Do you even know what universal background checks are?
 
-¡Vote!
+Because this guy went through a background check. https://t.co/pN…",0,278,Thu Nov 08 16:08:30 +0000 2018
+79,1060564545243111427,"Pick one: the Grizzlies' wrestling-inspired City Edition unis or the Sixers' 'Rocky' and #Creed2-inspired ones.
+#GrindCity #HereTheyCome https://t.co/R0DokWPFXk",8,1,Thu Nov 08 16:07:46 +0000 2018
+80,1060564506131058688,"RT @RabbiWolpe: Soundtrack of olam haba: The Sinatra bridge, low&amp;rising, in Riddle arranged “Old Man River” (&amp; the broken ‘and’ in Basie ‘e…",0,4,Thu Nov 08 16:07:37 +0000 2018
+81,1060563546373832704,About last night. https://t.co/KNWu12luDt,300,43,Thu Nov 08 16:03:48 +0000 2018
+82,1060563086497714181,One more. Just some light googling https://t.co/8OKYmulRjj,5,1,Thu Nov 08 16:01:58 +0000 2018
+83,1060562890086891522,I'll be signing autographs @NEPicture_com on Nov. 13 c/o @Fanatics. Come out and see @smart_MS3 &amp; me. #CUsRise #FanaticsExclusive https://t.co/5EygiMaQCr,98,10,Thu Nov 08 16:01:11 +0000 2018
+84,1060562778723926016,Here it is #HEATNation - the official intro video for #ViceNights. I’m excited to be wearing this jersey during my #OneLastDance with the @MiamiHEAT. You can get your own #ViceNights jersey tonight at midnight at @AAarena or online. https://t.co/4jQYM9zIVi,1511,764,Thu Nov 08 16:00:45 +0000 2018
+85,1060562695806689280,This one is from just the other night. https://t.co/TdpTItAyrg,6,1,Thu Nov 08 16:00:25 +0000 2018
+86,1060562639934382080,"Happy Birthday, @ERICB! 🎉 
 
-¡Vote!
+https://t.co/TYQ9OnhTqm",34,11,Thu Nov 08 16:00:12 +0000 2018
+87,1060562620019826688,"REMINDER-Due to Positive Train Control (PTC) track work and signal improvements, buses will replace Port Jervis Line trains between Harriman and Port Jervis stations tomorrow night, November 9 through Sunday, November 11. More info: https://t.co/RbK6MDOjcS https://t.co/YG0SgnR4Wr",4,2,Thu Nov 08 16:00:07 +0000 2018
+88,1060562593725796352,Oh yeah here’s one. Missouri I think. https://t.co/2X4zkRq8NN,7,1,Thu Nov 08 16:00:01 +0000 2018
+89,1060562449307484161,Lance Stephenson GETS IN THE GYM Right After Lakers Defeat Timberwolves! https://t.co/lpyE78fR5K,3,0,Thu Nov 08 15:59:26 +0000 2018
+90,1060561391751479296,"Never a dull moment... Da Homie
+@christuckerreal murk’d it last night!!! https://t.co/uqZ1J2fWdB",631,80,Thu Nov 08 15:55:14 +0000 2018
+91,1060561344255217664,"Creed's Scott Stapp says that he wasn't trying to commit suicide when T.I. found him and got him to the hospital in 2006
 
-¡Vote!
+https://t.co/SGCYlMNAaY",20,1,Thu Nov 08 15:55:03 +0000 2018
+92,1060561338617876480,I enjoyed this https://t.co/Re9aPOlHEB,797,65,Thu Nov 08 15:55:02 +0000 2018
+93,1060561199761448961,"Can’t organize in the street anymore? Is that true? I think I saw some recently, let’s see if I can dig up the pics... https://t.co/mfkavbvj05",10,1,Thu Nov 08 15:54:28 +0000 2018
+94,1060561143222190081,🤷🏾‍♂️ https://t.co/UOhvCgNulA,47,10,Thu Nov 08 15:54:15 +0000 2018
+95,1060560677620731904,RT @esaagar: Protestors did not merely gather and shout outside @TuckerCarlson's home. They broke his oak front door while his wife was hom…,0,2632,Thu Nov 08 15:52:24 +0000 2018
+96,1060560597765378048,"RT @iowahawkblog: Tanned, relaxed, ready https://t.co/eF46aARQYg",0,81,Thu Nov 08 15:52:05 +0000 2018
+97,1060560086324654080,"Delays reported on #Btrain #Dtrain #Ftrain #Mtrain Monday to Friday, until Nov 9Downtown [B] [Q] trains run at a slower speed in the area of 7 Av in Brooklyn #MTA https://t.co/jh4U3Ctg8s",0,0,Thu Nov 08 15:50:03 +0000 2018
+98,1060559501563031553,Lenny Williams - “Cause I love you” google that millennials please. I would love for you to appreciate it,1095,267,Thu Nov 08 15:47:44 +0000 2018
+99,1060558949894774785,We’ll update this post on a semi-regular basis --&gt; https://t.co/mkjF6lOz3e,27,13,Thu Nov 08 15:45:32 +0000 2018
+100,1060558935734681600,Calling all superheroes. Today is the day. Join us for Cape Day to honor all of the brave patients at @Children’s Health. Check out https://t.co/FqRccn90W2 for more. #CapeDayNTX https://t.co/GyNSRGuQIZ,861,119,Thu Nov 08 15:45:29 +0000 2018
+101,1060558834840821762,"Before the fame
 
-¡Vote!
+https://t.co/SMDoVRrtRY",61,22,Thu Nov 08 15:45:05 +0000 2018
+102,1060558458578030592,"If you don’t know the song, doesn’t mean the song wack... mean you wack.",2882,764,Thu Nov 08 15:43:35 +0000 2018
+103,1060557936974532608,"RT @MSGNetworks: That was a scary fall for @Enes_Kanter, but don't worry about him. He's just getting ready for his @WWE career. 😁 #Knicks…",0,47,Thu Nov 08 15:41:31 +0000 2018
+104,1060557903462125568,RT @mariohezonja: @Enes_Kanter @WWE Hadi kardeşim!!!!! ❤️🇭🇷 🇹🇷,0,8,Thu Nov 08 15:41:23 +0000 2018
+105,1060557846104817666,"The Celtics and Sixers are both feeling growing pains as they incorporate Hayward and Fultz into the mix. But it’s a necessity. On the challenges finding balance for both teams, from Monday on @ringer: https://t.co/l4pLyZHq6r",53,3,Thu Nov 08 15:41:09 +0000 2018
+106,1060557810059145216,Don’t tweet about Antifa and set your phone down for an hour.,102,3,Thu Nov 08 15:41:00 +0000 2018
+107,1060557684263374854,This is my point. Correlation between state gun laws and mass shootings is non-existent. https://t.co/OjHE8871gz,5053,1016,Thu Nov 08 15:40:30 +0000 2018
+108,1060557035022897152,"We did a new Rewatchables podcast: ‘All the President’s Men’ w/ me, @ChrisRyan77 @SeanFennessey ... Get out your headphones, there’s more. Your lives are in danger.
 
-¡Vote!
+https://t.co/wkMv98cs4g",61,2,Thu Nov 08 15:37:56 +0000 2018
+109,1060556901585436675,"The newly-elected D House members also strike me as being fairly ready for duty—there weren't the sort of accidental winners you sometimes see in wave elections. A lot of them are liable to be fairly tough incumbents, although the incumbency advantage is weaker than it once was.",856,108,Thu Nov 08 15:37:24 +0000 2018
+110,1060556758538608640,"RT @cjane87: If this is like when I finished my thesis they’ve got two cans of Monster and six packs of gum and let’s not lie, the last ten…",0,78,Thu Nov 08 15:36:50 +0000 2018
+111,1060556241452367872,"He likes movies. He likes music. He likes to eat. He works out. He goes on dates.
 
-¡Vote!
+Just a normal guy.
 
-¡Vote!
+Just a normal guy who is ranked second in the world in chess. 
 
-¡Vote!
+https://t.co/3f49HxymKN",63,8,Thu Nov 08 15:34:46 +0000 2018
+112,1060556049260990464,"If Dems hold the House in 2020, it may get easier after that because the map will probably be less gerrymandered thereafter. I kind of wonder if we're entering an era where Congress will be split (D House, R Senate) a lot more often.",879,132,Thu Nov 08 15:34:00 +0000 2018
+113,1060555936312377344,RT @RachaelBL: I cried when I watched @MiaBLove’s 2017 March for Life speech. So I was especially outraged by Trump’s caustic remarks about…,0,201,Thu Nov 08 15:33:34 +0000 2018
+114,1060555839088410624,"RT @BreakingNews: @AP Sheriff: Gunman is believed to have used a legally purchased .45 caliber handgun with an ""extended magazine;"" believe…",0,193,Thu Nov 08 15:33:10 +0000 2018
+115,1060555773560840193,"RT @michaelshermer: Another Dream Deferred. My @QuilletteM on how identity politics, intersectionality theory, and tribal divisiveness are…",0,91,Thu Nov 08 15:32:55 +0000 2018
+116,1060555394861461506,"That popular vote margin is going to rise—I'm guessing to about 7%, maybe 7.5%—but Democrats did a really good job capitalizing on their opportunities. https://t.co/wAZEHslrc6",936,179,Thu Nov 08 15:31:24 +0000 2018
+117,1060555080129306625,"Boss moves only
 
-¡Vote!
+https://t.co/NND559cIV5",101,16,Thu Nov 08 15:30:09 +0000 2018
+118,1060554886117502977,Kristine Leahy does a complete breakdown of the Lakers – Wolves game from her court-side seat https://t.co/JHjbj9gWDd,1,0,Thu Nov 08 15:29:23 +0000 2018
+119,1060554262562754560,"RT @JD_Tuccille: ""the group broke his oak door and one person mentioned a pipe bomb, as heard on a security video."" https://t.co/BIGF3PqjJG…",0,881,Thu Nov 08 15:26:54 +0000 2018
+120,1060552537143758852,#Atrain #Ctrain and #Etrain have delays  #MTA https://t.co/jh4U3Ctg8s,0,0,Thu Nov 08 15:20:03 +0000 2018
+121,1060552282167631873,"RT @RaviMGupta: .@GinaOrtizJones campaign needs help on the ground. If you or someone you know can spring into action in the district, emai…",0,128,Thu Nov 08 15:19:02 +0000 2018
+122,1060551859096539136,"RT @LongIslandNets: GAME DAY 🏀
+📍 @nycblive
+⏰ 7:00pm
+📺 @yesnetwork &amp; ESPN+
+📻 @wrhusports 
+🎙 @K_Dexter, @randyfoye &amp; @G_Antoniello 
+🎟 https:/…",0,9,Thu Nov 08 15:17:21 +0000 2018
+123,1060551487603073024,Waking up feeling like...... https://t.co/GxKOEejsGU,102,13,Thu Nov 08 15:15:53 +0000 2018
+124,1060551282933547008,"Abel's got a new LP on the way
 
-¡Vote!
+https://t.co/1WWST1DGnr",139,36,Thu Nov 08 15:15:04 +0000 2018
+125,1060551186972065793,"‘Long season, man’: Why Boston isn’t sweating its slow start https://t.co/PyOBBUuc0T",0,1,Thu Nov 08 15:14:41 +0000 2018
+126,1060550228879818753,"⬇️ Today in Hip-Hop ⬇️
 
-¡Vote!
+@Eminem ends up having four singles in the Billboard Hot 100 chart's top 20 
 
-¡Vote!
+https://t.co/aAFBHmJndI",177,50,Thu Nov 08 15:10:53 +0000 2018
+127,1060550024877223939,Planned work reported on #Ltrain [L] Service runs every 12 minutes between Myrtle-Wyckoff Avs and Rockaway Pkwy in Brooklyn #MTA https://t.co/jh4U3Ctg8s,0,0,Thu Nov 08 15:10:04 +0000 2018
+128,1060549853955153921,Backwoods &amp; Big Shots.. YM.. Vise Versa 🤙🏾 https://t.co/AeeYZXDKK4,2134,439,Thu Nov 08 15:09:23 +0000 2018
+129,1060549265334943744,"Lil Peep and XXXTentacion's posthumous song ""Falling Down"" has officially been certified gold
 
-¡Vote!
+https://t.co/eNVTcrc7Nu",239,47,Thu Nov 08 15:07:03 +0000 2018
+130,1060547511469961216,"Happy Birthday @TechN9ne! 🎉 What's his best song ever?
 
-¡Vote!
+https://t.co/FgNJ0n3ATN",94,18,Thu Nov 08 15:00:05 +0000 2018
+131,1060547134129389568,RT @Ruleyork: You 50 trolls are trying waaay to hard hope y’all getting a check and not just a ✔️lmao... Anyway for the ones on the short b…,0,80,Thu Nov 08 14:58:35 +0000 2018
+132,1060547052877299713,"We're also moving GA-7—another one where the networks differ—from ""called R"" to Likely R. The Dem trails by 900 votes here but there's 20K absentee votes still left to be counted. https://t.co/2p5vDKarsP",363,109,Thu Nov 08 14:58:16 +0000 2018
+133,1060546539850883073,RT @andrewthehan: [🎧] Running diary pod from @WindhorstESPN as he starts at shootaround with @TajGibson22 @ATolliver44 and ends the day fro…,0,5,Thu Nov 08 14:56:13 +0000 2018
+134,1060545860000497665,[Canton Rep] - NBA G League Preview: Canton Charge at Maine Red Claws https://t.co/oHfYp9TEVp,1,0,Thu Nov 08 14:53:31 +0000 2018
+135,1060545793046781952,I will give all my organs to RBG.  Just lemme know what she needs.,6,0,Thu Nov 08 14:53:15 +0000 2018
+136,1060545061757190144,Flame thrower! https://t.co/XgzMmxrjFk,345,40,Thu Nov 08 14:50:21 +0000 2018
+137,1060544326902509568,RT @LEBassett: Please- nobody ask @PressSec another question until she is forced to address the doctored video she fed the public.,0,2649,Thu Nov 08 14:47:26 +0000 2018
+138,1060544135348645889,The Brady Center says California has the nation’s strongest gun laws. https://t.co/ZUZBPwragQ,6615,1978,Thu Nov 08 14:46:40 +0000 2018
+139,1060543754338217986,"Weezy was spazzing on this
 
-¡Vote!
+https://t.co/IOrF3p3re2",197,62,Thu Nov 08 14:45:09 +0000 2018
+140,1060543686155489280,RT @guypbenson: “The protesters had blocked off both ends of his street and carried signs that listed his home address.” They also cracked…,0,2050,Thu Nov 08 14:44:53 +0000 2018
+141,1060543664978415624,"RT @realDailyWire: THE @BENSHAPIRO SHOW: SUNDAY SPECIAL! @JohnStossel joins Ben to discuss Libertarianism, drug decriminalization, the Amer…",0,40,Thu Nov 08 14:44:48 +0000 2018
+142,1060543644682334208,This is like asking “what would you recommend instead of sticking my finger in a light socket?” There are many answers. All of them start with not sticking your finger in light sockets anymore. https://t.co/V1ivT3H2KX,46,3,Thu Nov 08 14:44:43 +0000 2018
+143,1060541482266816512,"RT @brianstelter: Carlson's wife ""locked herself in the pantry and called 911."" @DCPoliceDept responded to the scene. Police will be paying…",0,573,Thu Nov 08 14:36:07 +0000 2018
+144,1060541429922103296,I am antifascist. I also believe the Antifa kids are so confoundingly stupid that they may as well be a false flag operation. Not saying they ARE a false flag operation. Just that they may as well be for all the good they do.,443,53,Thu Nov 08 14:35:55 +0000 2018
+145,1060541415761952770,RT @SethAMandel: All Trump had to do was say “Dear diary” and Acosta would’ve disintegrated on the spot and he’d be president forever,0,276,Thu Nov 08 14:35:52 +0000 2018
+146,1060540649424863232,"RT @LahavHarkov: Her mourning after the Pittsburgh tragedy was clearly just a brief detour from her regularly-scheduled antisemitism. 
 
-¡Vote!
+As…",0,376,Thu Nov 08 14:32:49 +0000 2018
+147,1060540406318850054,"Nets fans! We have 10 exclusive fan experiences at @barclayscenter designed to give you and your family memories that will last a lifetime. Get your package today before we come back home next week!
 
-¡Vote!
+👉 https://t.co/3NDOrPxmWe https://t.co/5rA9HthFXb",19,4,Thu Nov 08 14:31:51 +0000 2018
+148,1060540338543050754,RT @abc7greg: Absolutely heartbreaking interview from witness with @ABC7Jory at scene of reported mass shooting at #Borderline in #Thousand…,0,6428,Thu Nov 08 14:31:35 +0000 2018
+149,1060539974523719680,"J. Cole has been in his bag all 2018
 
-¡Vote!
+https://t.co/BVfxTkyPm0",263,52,Thu Nov 08 14:30:08 +0000 2018
+150,1060539959004680194,RT @BenShapQuotes: https://t.co/KxxI2Ifi5P,0,117,Thu Nov 08 14:30:04 +0000 2018
+151,1060539955154423808,"#7train have planned work Nov 7 - 9, Wed to Fri, 10:15 AM to 3 PMNov 12 - 16, Mon to Fri, 10:15 AM to 3 PMFlushing-bound [7] trains skip 33, 40, 46, 52 and 69 Sts in Queens #NYCsubway https://t.co/jh4U3Ctg8s",0,0,Thu Nov 08 14:30:03 +0000 2018
+152,1060539874686599169,RT @SeanTrende: You can sort of sort these districts that flipped into a few buckets (obvs things have changed since I sketched this out la…,0,13,Thu Nov 08 14:29:44 +0000 2018
+153,1060539380769660934,Renewed strength in the Upper Midwest would be great news for Democrats. https://t.co/q7fYvWXiI3,30,8,Thu Nov 08 14:27:46 +0000 2018
+154,1060538906595098624,RT @marklevinshow: Horror https://t.co/3hwvVhv7EE,0,227,Thu Nov 08 14:25:53 +0000 2018
+155,1060538387231199232,RT @jpodhoretz: @samstein his resume is that he was chief of staff for Ashcroft and then US Attorney in Iowa. That's actually his resume.,0,31,Thu Nov 08 14:23:50 +0000 2018
+156,1060537842143649793,RT @marklevinshow: Another that the media ignore https://t.co/YdsnLLDzqj,0,2090,Thu Nov 08 14:21:40 +0000 2018
+157,1060537417994653697,"RT @WillieGeist: This is Ventura County Sherrif’s Sgt. Ron Helus, killed as he responded to stop the mass shooting at Borderline Bar and Gr…",0,6243,Thu Nov 08 14:19:58 +0000 2018
+158,1060537245428473857,"RT @realDailyWire: So It Begins | The @BenShapiro Show Ep. 654
 
-¡Vote!
+WATCH: https://t.co/LozIlT3p6J https://t.co/71vyupmz5l",0,19,Thu Nov 08 14:19:17 +0000 2018
+159,1060536899213893632,"6ix9ine's manager faces assault charges after turning himself in for his alleged role in a New York shooting that led to one of Tekashi's associates being shot
 
-https://t.co/cpxzEChUAR",6,3,Sun Oct 28 18:16:07 +0000 2018
-33,1056610544956764161,"RT @KirkDBorne: Prediction at Scale with Scikit-learn and PySpark #Pandas: https://t.co/QF4o7A1hwW #abdsc
+https://t.co/r6LIuCQzR6",38,5,Thu Nov 08 14:17:55 +0000 2018
+160,1060536841391067141,RT @laurennnjoness2: my history professor is tired of our shit https://t.co/iYqe0N2tOc,0,18115,Thu Nov 08 14:17:41 +0000 2018
+161,1060536681529405442,"RT @MaxRose4NY: You might be seeing a lot of hot takes about how we won. Here’s the truth - it wasn’t that complicated: 
 
-#BigData #PredictiveAnalytics #D…",0,16,Sun Oct 28 18:15:59 +0000 2018
-34,1056610421271015424,"RT @KirkDBorne: 3 reasons why #Coding (specifically, #Python) Should Become Your Official Corporate Language:
-1)Teaches to think and solve…",0,49,Sun Oct 28 18:15:29 +0000 2018
-35,1056610350089437184,RT @schmarzo: Single best #Design tool for driving organizational alignment. Period. Prioritization Matrix:  Aligning Business-IT on #BigDa…,0,12,Sun Oct 28 18:15:12 +0000 2018
-36,1056610214437212160,RT @KirkDBorne: 29 Statistical Concepts Explained in Simple English - Part 1: https://t.co/DMIDGllR0z #abdsc #BigData #DataScience #DataLit…,0,58,Sun Oct 28 18:14:40 +0000 2018
-37,1056608998005313538,"Intel has announced plans to open a joint AI research center in Haifa, Israel. The center will be run in a collaboration between Intel AI Research and Technion – Israel Institute of Technology. #ODSC #ODSCWest #AI https://t.co/Xz7KYrYvkB",1,2,Sun Oct 28 18:09:50 +0000 2018
-38,1056608573524832256,"Weekly Digest, October 29: https://t.co/XUkx3NMOZ4",4,1,Sun Oct 28 18:08:09 +0000 2018
-39,1056605207927259136,"RT @IBMcommunity: #AskaDataScientist: @IBM_Champions @NirKaldero just published #DataScience for Executives, which is #1 on the @Inc top 10…",0,14,Sun Oct 28 17:54:47 +0000 2018
-40,1056605102029516800,RT @IBMAnalytics: Join IBM in San Francisco for #Think2019. Early bird rates expire Nov. 16th — Register now: https://t.co/6wMSnDeR8y https…,0,15,Sun Oct 28 17:54:21 +0000 2018
-41,1056604383922638848,"RT @LisPower1: Hey @FoxNews, while you're covering your ass and pretending to be outraged by people using your network to spread conspiracy…",0,1664,Sun Oct 28 17:51:30 +0000 2018
-42,1056604269778882560,"RT @KevinMKruse: In 1860, Lincoln ran on a platform that called for open immigration, called for an easy path to citizenship for those who…",0,1646,Sun Oct 28 17:51:03 +0000 2018
-43,1056603908150161408,RT @SarcasmRulz1: If that’s comfortable 🙄 @YeahItWasSaid https://t.co/ZYyZe5HH3X,0,3,Sun Oct 28 17:49:37 +0000 2018
-44,1056603691715686400,RT @Popehat: Looks like Gab has deleted a lot of their old tweets.  Like the time they repeatedly retweeted an adolescent white nationalist…,0,329,Sun Oct 28 17:48:45 +0000 2018
-45,1056603610300145664,RT @SwiftOnSecurity: Gab’s entire “neutral free speech” thing is a scam. The owner is an InfoWars commentator. They retweet antisemitic shi…,0,258,Sun Oct 28 17:48:26 +0000 2018
-46,1056603525319258112,"RT @SwiftOnSecurity: Gab is NOT an “alternative to Twitter.”
-Everyone there has Twitter accounts, multiple ones. Gab is just where they dum…",0,1068,Sun Oct 28 17:48:05 +0000 2018
-47,1056603081519984640,RT @TomSteyer: .@realdonaldtrump just tweeted at me in his typical insulting style after watching @CNNsotu. It is unthinkable that in the m…,0,7660,Sun Oct 28 17:46:20 +0000 2018
-48,1056602510410928128,"RT @Weinsteinlaw: This is the 300th day of the year. 
+✅ Knock on every…",0,319,Thu Nov 08 14:17:03 +0000 2018
+162,1060536463618531328,RT @SonnyBunch: I’m sad this is no longer what Jim Acosta’s profile looks like because it’s kind of perfect. https://t.co/wh4JqU0K3k,0,168,Thu Nov 08 14:16:11 +0000 2018
+163,1060536216943124480,RT @charlescwcooke: Wishing a speedy recovery to Justice Ginsburg. Broken ribs are excruciating.,0,431,Thu Nov 08 14:15:12 +0000 2018
+164,1060536042925711361,RT @EdMorrissey: Yikes. https://t.co/bCsgkgxRfP,0,20,Thu Nov 08 14:14:31 +0000 2018
+165,1060535995806990336,"Among the uncalled Senate races, we have Arizona as Lean R, Florida as Likely R, and the Mississippi special election also as Likely R.
 
-There have been 294 mass shootings in 2018. 
+Republicans will net 3 seats from Democrats if they win all 3.",192,71,Thu Nov 08 14:14:19 +0000 2018
+166,1060534940293627904,Planned work reported on #Ntrain #Qtrain #Rtrain #Wtrain [W] Service is replaced by [N] trains between 57 St-7 Av in Manhattan and Ditmars Blvd in Queens[W] Trains run every 20 minutes in Manhattan #MTA https://t.co/jh4U3Ctg8s,0,0,Thu Nov 08 14:10:08 +0000 2018
+167,1060534255284113411,"Blac Youngsta is hilarious
 
-There are 10 days until Election Day.…",0,5648,Sun Oct 28 17:44:03 +0000 2018
-49,1056602479868051456,"RT @LatinoUSA: President Trump is preparing to announce a sweeping border crackdown in a speech Tuesday, a week before the midterm election…",0,11,Sun Oct 28 17:43:56 +0000 2018
-50,1056601171350044673,"RT @GeeDee215: But the reason you consistently push back on his bullshit at Thanksgiving dinner is not to change his mind, but because the…",0,41,Sun Oct 28 17:38:44 +0000 2018
-51,1056600230836297730,AI and the Future of Millennials https://t.co/b4IkqJwyM6,0,2,Sun Oct 28 17:35:00 +0000 2018
-52,1056598748778815488,"RT @TheRickWilson: You're also a gleeful swamp of raging anti-semites, alt-right incel cockwombles, slack-jawed Klan dickweeds, and neo- cr…",0,3189,Sun Oct 28 17:29:07 +0000 2018
-53,1056598468565774336,Amazing thread with lots of new Russian election data 👇 https://t.co/dNa58ZswY9,3,1,Sun Oct 28 17:28:00 +0000 2018
-54,1056594797618618368,RT @ClaraJeffery: Tom Steyer was sent a pipe bomb by a Trump supporter... https://t.co/uLxClvLZhV,0,54,Sun Oct 28 17:13:24 +0000 2018
-55,1056592977219346433,"RT @mikeydickerson: Facebook, Twitter, and Youtube knew that they were the main vehicles for radicalizing violent terrorists overseas no la…",0,1361,Sun Oct 28 17:06:10 +0000 2018
-56,1056592430030602240,A Study of Reddit Politics https://t.co/1xORK8refj,5,1,Sun Oct 28 17:04:00 +0000 2018
-57,1056591735885840384,"Machine Learning Explained: Understanding Supervised, Unsupervised &amp; Reinforcement Learning https://t.co/4sN9tmR9AD",7,9,Sun Oct 28 17:01:15 +0000 2018
-58,1056591735223189504,Book: Java Deep Learning Essentials https://t.co/hkXTG40i7f,7,4,Sun Oct 28 17:01:14 +0000 2018
-59,1056591428732833795,"Get ready for the the most exciting Data Science event event of the fall! @ODSC West 2018 is 3 days TO GO. And you still have a chance to join us in San Francisco, Oct 31- Nov 3. 
-Register NOW for FINAL Tickets https://t.co/NOa68TVI7L  
-#ODSCWest #DataScience #AI https://t.co/OAcpZQT4SS",1,0,Sun Oct 28 17:00:01 +0000 2018
-60,1056589466855333888,RT @eaglesboy2: From deepest Wales to the Malvern Hills! Our new puppy Whisky! #welshsheepdog #bordercollie #puppy 💙❤️ https://t.co/AzbypZa…,0,1,Sun Oct 28 16:52:14 +0000 2018
-61,1056589125422202880,"RT @foxcrusade: Rly missing my doggo rn, here's some pictures of her! She really likes tennis balls #bestdoggo #bordercollie https://t.co/z…",0,2,Sun Oct 28 16:50:52 +0000 2018
-62,1056589092484337664,"RT @PiebaldThe: Remember to wrap up warm for your walks 😛
+https://t.co/dLzLvchyhd",86,20,Thu Nov 08 14:07:24 +0000 2018
+168,1060533455468007424,"NY-27 (Chris Collins) is another one where there's some disagreement on whether the race can be called. After looking at it, we're moving it to Likely R. The margin is ~2700 with ~10K absentees to be counted. Highly likely Collins wins but not 100% safe. https://t.co/bOeEXtYdMd",222,61,Thu Nov 08 14:04:14 +0000 2018
+169,1060532845356158977,RT @ollie: the world chess championship starts tomorrow. here’s the american who could win it: https://t.co/Ctk4UF6zc0,0,50,Thu Nov 08 14:01:48 +0000 2018
+170,1060532814544801793,Wells Fargo admitted that 545 of its customers lost their homes thanks to “an internal underwriting error” in its software. https://t.co/8OsYxfEI2T,37,32,Thu Nov 08 14:01:41 +0000 2018
+171,1060532244970958848,"Allonzo Trier Full Highlights 2018.11.07 Knicks vs Hawks – 16 Pts, NASTY Crossover! | FreeDawkins https://t.co/PbBNIPB1fi",2,0,Thu Nov 08 13:59:25 +0000 2018
+172,1060528623143346176,"This has to be a first, right?
 
-#patch #dogs #dogsoftwitter #collie #bordercollie #pup #colliesoftwitter #pets #…",0,5,Sun Oct 28 16:50:44 +0000 2018
-63,1056587937037529089,RT @existentialfish: And it's not that Meet the Press wasn't aware of all of this. We (@mmfa) sent them an email  asking for comment about…,0,89,Sun Oct 28 16:46:09 +0000 2018
-64,1056587136919470080,RT @MSignorile: Rep. Kevin McCarthy Deletes Tweet Singling Out 3 Jews Helping Bankroll Democrats https://t.co/GfXv62aecs via @HuffPostPol,0,19,Sun Oct 28 16:42:58 +0000 2018
-65,1056586141569372161,Data Science Summarized in One Picture https://t.co/fLWfofC7Q0,28,12,Sun Oct 28 16:39:01 +0000 2018
-66,1056578633668743168,"Join some of the best and brightest in #DataScience at @ODSC West 2018. This is the ideal opportunity to network with thought leaders and professionals across industry. 
+https://t.co/LGAdHeBqhG",134,32,Thu Nov 08 13:45:02 +0000 2018
+173,1060528533913636864,Tyson Chandler On Lakers Reception When He Checked In For First Time https://t.co/0gCmqakD0g,2,0,Thu Nov 08 13:44:40 +0000 2018
+174,1060527298162634752,"Missed one: We're also rating TX-23, which has been called by some networks and not others, as Likely R.
 
-Final Tickets Available https://t.co/rzsieZK5Kd    
-#ODSCWest https://t.co/EQ2kqLJet8",1,2,Sun Oct 28 16:09:11 +0000 2018
-67,1056576417251647489,Full Stack Data Scientist: The Elusive Unicorn and Data Hacker https://t.co/Sdh7P1otIE,40,13,Sun Oct 28 16:00:22 +0000 2018
-68,1056576324616241153,Female-founded AND sustainable. WeWork member company @oui_shave is bringing the heat by leaving the (razor) burn behind. https://t.co/AVMqVM6PmY,2,0,Sun Oct 28 16:00:00 +0000 2018
-69,1056569035582775296,"Join @ODSC West LiveStream to see our opening Keynotes: Paul Taylor, Andrej Karpathy and Virginia Eubanks on Friday, Nov 2 at 9:30 AM PST @IBMWatson @karpathy @Tesla @PopTechWorks #ODSCWest #AI
-https://t.co/qAuyVtRHOa https://t.co/qpVYceRlrr",0,0,Sun Oct 28 15:31:02 +0000 2018
-70,1056563666420711426,The Microsoft Infer NET machine learning framework goes open source #MachineLearning #ODSC #ODSCWest https://t.co/6o0tIyRPaU,1,4,Sun Oct 28 15:09:42 +0000 2018
-71,1056555693602471936,"Sundays are for self reflection #sundaymorning
-📸 @CYDPLAYGROUNDS &amp; @PopUpYogaParis https://t.co/pAk5nApJj3",8,0,Sun Oct 28 14:38:01 +0000 2018
-72,1056554934513098752,88 Resources &amp; Tools to Become a Data Scientist https://t.co/WWD8Q8UWzi,17,13,Sun Oct 28 14:35:00 +0000 2018
-73,1056553677585035264,"Watch the @ODSC West 2018 keynotes and 20+ other sessions with our LIVESTREAM Pass #ODSCWest #AI
+Most likely, though, it will be the five in the middle, CA-10, CA-39, CA-45, ME-2 and NJ-3, that determine where we end up on the scale from D+35 to D+40.",377,90,Thu Nov 08 13:39:46 +0000 2018
+175,1060525302915440646,"Here's how we rate the remaining uncalled races. In several of these, there are concessions but no official @ABC or AP call:
+Solid D (&gt;=95%)—CA-48, CA-49, WA-8
+Likely D (~85%)—NM-2, UT-4
+Lean D (~65%)—CA-10, CA-39
+Tossup (~50%)—CA-45, ME-2, NJ-3
+Lean R
+Likely R
+Solid R—MN-1, NC-9",497,155,Thu Nov 08 13:31:50 +0000 2018
+176,1060524664949219329,Tim Hardaway Jr Full Highlights 2018.11.07 Knicks vs Hawks – 34 Pts! | FreeDawkins https://t.co/MkH7aGVcVN,0,0,Thu Nov 08 13:29:18 +0000 2018
+177,1060522906327879685,These aren’t your slightly older sibling’s Lakers. #LakeShow https://t.co/otAnpkxkX5,58,11,Thu Nov 08 13:22:19 +0000 2018
+178,1060522275030601730,Democrats won The Ossoff Seat. https://t.co/MrHrWGGu03,9236,1497,Thu Nov 08 13:19:48 +0000 2018
+179,1060521091540680704,"6ix9ine always has time
 
-https://t.co/71vzQkAVik https://t.co/9Bi4QtFKPz",4,0,Sun Oct 28 14:30:01 +0000 2018
-74,1056548410642325504,"Join Ahna Girshick, Ford Garberson, Brianna Schuyler and Marc Smith at @ODSC West in San Francisco, Oct. 31 - Nov. 3. @AhnaGirshick @BriannaSchuyler @marc_smith #ODSCWest #DataScience #ODSC
-https://t.co/29flVRSWjF https://t.co/MlcVIZvFZ7",0,0,Sun Oct 28 14:09:05 +0000 2018
-75,1056546429961977856,5 Phases To Successfully Complete a Data Science Project https://t.co/EGl9b1H5rI,31,15,Sun Oct 28 14:01:13 +0000 2018
-76,1056546429341188098,Sample Job Titles and Salaries for Recently filled Data Science Positions in US https://t.co/fkO5buj50c,6,4,Sun Oct 28 14:01:13 +0000 2018
-77,1056518190551973889,"Data science is able to solve problems and answer questions, but it’s not without its own challenges. When is data really worth it? Are you infringing on privacy? #DataScience #ODSC #ODSCWest https://t.co/eaUubE1tDS",6,4,Sun Oct 28 12:09:00 +0000 2018
-78,1056515926017884160,#ICYMI: The top 3 things you need to know about IBM Watson Studio: https://t.co/aHRyzyOjiu #machinelearning #datascience #WatsonStudio,4,4,Sun Oct 28 12:00:00 +0000 2018
-79,1056501050474221568,The Top 100 Analytics Startups of 2015 https://t.co/bGPclVL6uK,12,9,Sun Oct 28 11:00:53 +0000 2018
-80,1056501044333723648,Is Data Science Ripe for a Massive Merger &amp; Acquisition / Consolidation? https://t.co/GDY3rVV9F8,16,11,Sun Oct 28 11:00:52 +0000 2018
-81,1056488004531957760,"This article describes TensorLayer, a modular Python wrapper library for TensorFlow allowing data scientists to streamline the development of complex deep learning systems. #TensorFlow #ODSC #ODSCWest https://t.co/WbnRqtOYk4",35,23,Sun Oct 28 10:09:03 +0000 2018
-82,1056472892618227723,"Check out The Amazing, Anti-Jargon, Insight Filled, and Totally Free Handbook to Integrating AI in Highly Regulated Industries, a free handbook that covers the entire breadth of the “black box” issue #AI #ODSC #ODSCWest  @basistechnology https://t.co/nKwQXqB0Z8",7,4,Sun Oct 28 09:09:00 +0000 2018
-83,1056465342300676096,A question and an answer about recoding several factors simultaneously in R. #DataScience #ODSC #ODSCWest https://t.co/MlJNoPpOgK,2,2,Sun Oct 28 08:39:00 +0000 2018
-84,1056455680004182016,"Predicting animal adoption with Random Forest, SVM https://t.co/0cr1SKoQz2",12,8,Sun Oct 28 08:00:36 +0000 2018
-85,1056455679513366529,Office Politics: A survival guide for data scientists https://t.co/0OgDGx2eOT,10,5,Sun Oct 28 08:00:36 +0000 2018
-86,1056424669945839617,RT @JordanUhl: [cake voice] i like a guy with short arms and a looooooong jacket https://t.co/3kRLn9JglQ,0,246,Sun Oct 28 05:57:23 +0000 2018
-87,1056410345953206272,"So, How Many ML Models You Have NOT Built? https://t.co/8qUlQLaT2f",15,6,Sun Oct 28 05:00:28 +0000 2018
-88,1056410345810604033,Learn under the hood of Gradient Descent algorithm using excel https://t.co/BpRH2Nt67g,13,14,Sun Oct 28 05:00:28 +0000 2018
-89,1056408624698814464,"RT @PascaliwagED: @dataandpolitics @SocialSciNerd Anything on political efficacy. Clarke and Acock 1989 : national elections, if your side…",0,1,Sun Oct 28 04:53:37 +0000 2018
-90,1056404817671729152,RT @smotus: Steadily all other amendments are sacrificed to the Second.,0,193,Sun Oct 28 04:38:30 +0000 2018
-91,1056398574605332480,"RT @AnandWrites: This is what mourners keeping vigil chanted in Squirrel Hill tonight:
+https://t.co/ToBjF90FCP",111,15,Thu Nov 08 13:15:06 +0000 2018
+180,1060519832440004608,Planned work on #SIRtrain [SIR] Tottenville-bound trains run on an adjusted schedule #MTA https://t.co/jh4U3Ctg8s,0,0,Thu Nov 08 13:10:06 +0000 2018
+181,1060519684687192065,"The Sunbelt Strategy may be tempting to Dems, especially if Texas is now more competitive. But the Northern Path—Wisconsin, Michigan, Pennsylvania—sure looks a lot easier. What you really don't want it to get stuck in between the two, which is sort of what happened to Clinton.",1148,163,Thu Nov 08 13:09:30 +0000 2018
+182,1060518993298182144,"Basically, a Democrat hoping to win the WH can undertake one of 2 strategies:
+1) Northern Path—Flip WI, MI &amp; PA back to blue. Hold MN.
+2) Sunbelt Strategy—Lose all the above states, but win FL and any of NC, AZ, TX(!), GA.",663,212,Thu Nov 08 13:06:46 +0000 2018
+183,1060518580649811970,Why I Don't Wear a Suit and Can't Figure Out Why Anyone Does ! https://t.co/0FcmH6ZSOC via @wordpressdotcom,899,218,Thu Nov 08 13:05:07 +0000 2018
+184,1060517571030642693,"Of course, Tuesday was a very blue night. But if you shift every state toward Republicans by 6 points, which roughly reflects what you'd get in a neutral political environment, here's what the map looks like. This looks like a pretty fair fight for the Electoral College. https://t.co/HKe1z66C22",348,113,Thu Nov 08 13:01:07 +0000 2018
+185,1060517376729538568,"Travis really wanted people to vote
 
-Vote.
-
-Vote.
-
-Vote.
-
-Vote.
-
-Vote.
-
-Vote.
-
-Vote.
-
-Vo…",0,4029,Sun Oct 28 04:13:41 +0000 2018
-92,1056385610687090688,"Question: Time series hourly data plot, in Python https://t.co/7O9ifza2F2",13,6,Sun Oct 28 03:22:10 +0000 2018
-93,1056385065876369408,Quantile Regression in Python https://t.co/0ca949YRRJ,33,8,Sun Oct 28 03:20:01 +0000 2018
-94,1056384407651606528,RT @PSchoettmer: @poliscigrl @ADobranic @amyericasmith @dataandpolitics Regardless of who you are actually working for and wherever you are…,0,1,Sun Oct 28 03:17:24 +0000 2018
-95,1056382509502541825,"RT @ElectProject: Georgia had another day of 100K+ votes and becomes the 7th state to exceed their 2014 *total* #earlyvote, joining DE, IN,…",0,52,Sun Oct 28 03:09:51 +0000 2018
-96,1056382293885968384,"RT @ElectProject: Georgia's African-Americans represented today, adding 37,065 #earlyvote and raising the statewide percentage of African-A…",0,36,Sun Oct 28 03:09:00 +0000 2018
-97,1056380322198081537,"RT @tom_s_clark: Almost a month ago, @Delta called me to apologize for a flight disruption and offer to send me $100 in cash as a friendly…",0,1,Sun Oct 28 03:01:10 +0000 2018
-98,1056376165177290752,RT @FrankManic: @dataandpolitics And you'll get tons of likes when you post your sticker selfie,0,1,Sun Oct 28 02:44:38 +0000 2018
-99,1056374981796360192,RT @EmbryoResist: @dataandpolitics @OldTehanu @darth https://t.co/4EaPMWJUKW,0,1,Sun Oct 28 02:39:56 +0000 2018
-100,1056372734593241094,What is Big Data And How Does It Work? https://t.co/9ffLT4Zjla,10,8,Sun Oct 28 02:31:01 +0000 2018
-101,1056371476432125952,Data Scientist versus Data Architect https://t.co/qbzSK4cneI,3,1,Sun Oct 28 02:26:01 +0000 2018
-102,1056365088167378944,How to pass multiple inputs (features) to LSTM using Tensorflow? https://t.co/SKHnMQLij5,6,7,Sun Oct 28 02:00:37 +0000 2018
-103,1056365088083529729,Open Source automated ETL of web-based data sources https://t.co/qwwgLe3QDl,14,7,Sun Oct 28 02:00:37 +0000 2018
-104,1056359144775651329,Application of Image Processing and Convolution Networks in Intelligent Character Recognition for Digitized Forms Processing https://t.co/3PoGGrUSkr,13,8,Sun Oct 28 01:37:00 +0000 2018
-105,1056356610023612416,RT @stevenstrogatz: A very nice article. Clear and explicit. Includes an excellent treatment of the strict triangle inequality in 2-D hyper…,0,32,Sun Oct 28 01:26:56 +0000 2018
-106,1056355490274381824,RT @conormyhrvold: Michelangelo PyML: Introducing #Uber's Platform for Rapid #Python #ML Model Development https://t.co/2mcbPfSN0P via @ube…,0,17,Sun Oct 28 01:22:29 +0000 2018
-107,1056341778578763776,An overview of feature selection strategies https://t.co/7yLTMmSnXP,31,18,Sun Oct 28 00:28:00 +0000 2018
-108,1056341274926690304,Dome Team Performance in the NFL https://t.co/jwpiGzKKLr,1,4,Sun Oct 28 00:26:00 +0000 2018
-109,1056337850734497792,Trump Solves Famous Mathematical Conjecture: https://t.co/48CE3rZWdA,5,5,Sun Oct 28 00:12:24 +0000 2018
-110,1056334804608679936,"RT @mirandayaver: Oh come the fuck on, @nytimes. Enough with ""both sides."" When the media and politicians nonviolently critical of the pres…",0,1041,Sun Oct 28 00:00:17 +0000 2018
-111,1056328188052279296,"The recent, widespread attention given to knowledge graphs from the research community has helped foment a significant debate among knowledge representation experts: what even is a knowledge graph? #DataScience #ODSC #ODSCWest
-https://t.co/VIYT0R4UIM",50,22,Sat Oct 27 23:34:00 +0000 2018
-112,1056326681194049536,Using Analytics to Improve Customer Engagement https://t.co/do9R3EAukA,18,6,Sat Oct 27 23:28:01 +0000 2018
-113,1056326174404689931,Contingency Tables in R https://t.co/qYRuZGHE0S,28,16,Sat Oct 27 23:26:00 +0000 2018
-114,1056323429262012416,RT @stlbf: @dataandpolitics @darth We all need doggo love! Especially on a rotten day like today. https://t.co/cfq7pFSXDT,0,1,Sat Oct 27 23:15:05 +0000 2018
-115,1056319822684930048,Apache Spark Introduction  A Comprehensive Guide for beginners https://t.co/dIE1cbxCoo,17,5,Sat Oct 27 23:00:45 +0000 2018
-116,1056319813948264448,CDO or CAO? https://t.co/jsB4JPkwaD,1,2,Sat Oct 27 23:00:43 +0000 2018
-117,1056319634864066560,"Can't make it to @ODSC in San Francisco this year?  Don’t miss out! Access more than 20 Deep Learning, Machine Learning + other Data Science talks &amp; workshops with your #ODSCWest 2018 LIVESTREAM Pass.
-#ODSC  https://t.co/SNvrge398H https://t.co/CaH0FKXaWg",1,0,Sat Oct 27 23:00:01 +0000 2018
-118,1056313094337712129,"Join Karthik Ramasamy, Co - Founder at Streamlio at @ODSC West 2018 in #SanFrancisco, Oct 31 - Nov 3.  #ODSC #ODSCWest
-@streamlio
-https://t.co/BMQ602X2jw https://t.co/XOvCsXWWiA",2,1,Sat Oct 27 22:34:01 +0000 2018
-119,1056309062852337667,The Future of IoT and Machine to Machine Payments https://t.co/3eDcJlbzuG,3,4,Sat Oct 27 22:18:00 +0000 2018
-120,1056301260478054406,"Our members explain how showcasing their personal style allows them to approach work with confidence and power. @RenttheRunway makes it easy. #weekendreads
-https://t.co/6Sh2HyhzEn",4,0,Sat Oct 27 21:47:00 +0000 2018
-121,1056300700404080640,RT @ArielTroster: A corgi Halloween parade is exactly as ridiculous as it sounds https://t.co/Om3p96b40c,0,3,Sat Oct 27 21:44:46 +0000 2018
-122,1056300494140796928,RT @sgadarian: @VegHistory I’m on the board of our synagogue and we spend a lot of our budget on  armed security - every week at services a…,0,5,Sat Oct 27 21:43:57 +0000 2018
-123,1056298241002758144,Great Github list of public data sets https://t.co/Vg5H3eR7Ux,123,54,Sat Oct 27 21:35:00 +0000 2018
-124,1056297988987985920,Deep Lens raises $3.2 million for AI cloud pathology platform #AI #ODSC #ODSCWest https://t.co/atjRCRlf7c,5,5,Sat Oct 27 21:34:00 +0000 2018
-125,1056294720710819842,Question: Recommendation System https://t.co/SGvSSzuWZD,3,3,Sat Oct 27 21:21:01 +0000 2018
-126,1056286924313374722,"Check out the new additions to the @ODSC West schedule. Unprecedented choice of AI + #DataScience talks, workshops, and trainings for all levels. 
-
-Limited Tickets Remaining https://t.co/aLNkAZl3Qw 
-#MachineLearning #ODSCWest https://t.co/3ISLo2sLoc",1,1,Sat Oct 27 20:50:02 +0000 2018
-127,1056284652074340352,Six categories of Data Scientists https://t.co/S6T47CQz80,14,6,Sat Oct 27 20:41:00 +0000 2018
-128,1056275340312674309,See how Google is applying deep learning to metastatic breast cancer detection #DeepLearning #ODSC #ODSCWest https://t.co/s59p6GyOxV,4,1,Sat Oct 27 20:04:00 +0000 2018
-129,1056274562109845505,Silicon Valley Firms Make It Nearly 'Impossible' For Cambridge To Hire AI Staff https://t.co/h2BfUx9Bfm,2,2,Sat Oct 27 20:00:54 +0000 2018
-130,1056274561560440834,Developers outlook on modern AI in 2018 https://t.co/MhsYnkVuiI,1,5,Sat Oct 27 20:00:54 +0000 2018
-131,1056274085251047424,Question: Measuring Accuracy for a Multiclass Classification Model https://t.co/QsgrgY23UJ,11,5,Sat Oct 27 19:59:01 +0000 2018
-132,1056269803508371457,Cross-Validation: Concept and Example in R https://t.co/GyxQuG1WFC,24,7,Sat Oct 27 19:42:00 +0000 2018
-133,1056268241444597760,"McGonagall is the world’s sweetest senior #bordercollie!
-
-She’s available for adoption at @Muttville in San Francisco! 
-
-@darth @morgfair https://t.co/ak0Omyrjvx",39,17,Sat Oct 27 19:35:47 +0000 2018
-134,1056267584721600512,"Get out and seize the Saturday. Learn more about getting there on two wheels.
-
-https://t.co/KdP6x5hNLD https://t.co/8Dfv2R1yb6",38,11,Sat Oct 27 19:33:11 +0000 2018
-135,1056258478841438213,Cheat Sheet: Data Visualization with R https://t.co/jylcVkkgpw,64,26,Sat Oct 27 18:57:00 +0000 2018
-136,1056255163353255936,"One Trillion Random Digits
-https://t.co/9xSbj1TN4a",44,24,Sat Oct 27 18:43:49 +0000 2018
-137,1056255060215128065,"The news this morning is terrible. 
-
-Here is Argyle to bring a moment of zen to your timeline. 
-
-@darth #SeniorDog https://t.co/IjA2wZHKkR",37,4,Sat Oct 27 18:43:25 +0000 2018
-138,1056253828109164544,"RT @techreview: A controversial artwork created by AI has hauled in $435,000 at auction https://t.co/izEAPt2s4E",0,55,Sat Oct 27 18:38:31 +0000 2018
-139,1056253789471195136,"RT @xamat: ""Sorry I didn’t get that! — How to understand what your users want (using unsupervised AI)"" by @_langAI https://t.co/KooeMmNsly",0,3,Sat Oct 27 18:38:22 +0000 2018
-140,1056253619463471105,RT @fchollet: Nice guide to text classification using Keras: https://t.co/iIh0hY6akM,0,111,Sat Oct 27 18:37:41 +0000 2018
-141,1056253306580987904,"RT @seb_ruder: Are you interested in summarization? @tbsflk compiled the results on the most common datasets (CNN/DailyMail, Gigaword, DUC0…",0,59,Sat Oct 27 18:36:27 +0000 2018
-142,1056251687348908034,"Join @ODSC West 2018. Only 4 days left before the start of the leading #DataScience event of the year. Join our global community of 4500 attendees &amp; learn, network, and connect. Tickets Available:  https://t.co/fVmNE4sng6    
-#ODSC #AI https://t.co/52H1pssVN4",1,0,Sat Oct 27 18:30:01 +0000 2018
-143,1056251447216562176,RT @shallow_state: @poliscigrl @ADobranic @amyericasmith @dataandpolitics If you had a strong expectation the voter would support your cand…,0,1,Sat Oct 27 18:29:03 +0000 2018
-144,1056250429326217216,10 Big Data Use Cases Everyone Must Read https://t.co/LLUElpqo1d,19,9,Sat Oct 27 18:25:01 +0000 2018
-145,1056248103525736448,"RT @Cliff_M85: ""If they had guns"" - Three police officers shot by mad man
-""Thoughts and prayers"" - There were plenty of those in the synago…",0,24,Sat Oct 27 18:15:46 +0000 2018
-146,1056245531977175041,"According to Dell, these are the 8 key steps for successful AI implementation #AI #ODSC #ODSCWest https://t.co/OQsq8WrPWT",2,1,Sat Oct 27 18:05:33 +0000 2018
-147,1056244137828274177,How do you deliver business value to an insurance firm that must balance reducing expenses &amp; giving customers a positive claims experience? Listen in on this Q&amp;A with Irina Saburova &amp; @rosiepongracz to see how Watson Studio can help: https://t.co/iTTyJ1eFle #datascience https://t.co/cdNlboNitD,1,3,Sat Oct 27 18:00:01 +0000 2018
-148,1056231805051899907,"https://t.co/jmIhOSZqqZ, Progress Report #2: It works. – Monday Note https://t.co/XMAZzahd1k",1,1,Sat Oct 27 17:11:00 +0000 2018
-149,1056231060416024576,"RT @happydogs0301: 今日のお客様🐶🐈ワクチン接種とお耳の治療のための通院でした🏥
-ふたりとも、あっという間に大きくなってました😆これからが楽しみですね♥️
-https://t.co/pxodN1RlTW #ペットタクシー #ペットの送迎 #ハッピードッグズ #…",0,1,Sat Oct 27 17:08:03 +0000 2018
-150,1056230531208142849,RT @ianseren: Attention ! ⁦@ruthwignall⁩ ⁦@kelseyredmore⁩ ⁦@ItsYourWales⁩ #bordercollie https://t.co/0PUiTXUdXX,0,1,Sat Oct 27 17:05:57 +0000 2018
-151,1056230464363491333,RT @MarinaRiveraR: Cuando alguien quiere madrugue para aprovechar la mañana de sábado. #felizsabado #BorderCollie #misombra https://t.co/uQ…,0,1,Sat Oct 27 17:05:41 +0000 2018
-152,1056230042366287872,Top 20 Big Data Experts to Follow (Includes Scoring Algorithm) https://t.co/GaTwMjZKvZ,8,1,Sat Oct 27 17:04:00 +0000 2018
-153,1056230037953830913,"RT @northeastguides: After the initial clag and snow, it turned into a cracking day in #Northumberland 
-#dogfriendly #bordercollie #Cheviot…",0,2,Sat Oct 27 17:03:59 +0000 2018
-154,1056229946538881024,RT @LifeAsACollie: #Sunset at the #Beach #Goldenhour #happydog #BorderCollie #BorderFame https://t.co/TL1kqK9jC8,0,1,Sat Oct 27 17:03:37 +0000 2018
-155,1056229378286338049,Graph-based intelligence analysis https://t.co/KObzGSVvF4,13,8,Sat Oct 27 17:01:22 +0000 2018
-156,1056229378240249856,"14 Great Articles About Cross-Validation, Model Fitting and Selection https://t.co/cSlQAHjJHK",10,4,Sat Oct 27 17:01:22 +0000 2018
-157,1056229094529097728,"Fall’s most exciting Data Science conference, @ODSC West 2018, is only 4 days away. We have a few remaining ticket left.
-
-Register NOW for our FINAL 58 Tickets: https://t.co/9x87hHbAy4
-#ODSCWest #DataScience #AI https://t.co/4VyVK6X68B",3,1,Sat Oct 27 17:00:14 +0000 2018
-158,1056226840849743872,Three officers were shot. https://t.co/xak52ENGCt,15,6,Sat Oct 27 16:51:17 +0000 2018
-159,1056225712850403328,RT @EricBoehlert: Trump just blamed synagogue,0,924,Sat Oct 27 16:46:48 +0000 2018
-160,1056225070266253313,RT @mollycrabapple: This piece of shit murdered Jews because a Jewish group helps refugees and immigrants. Because they protest the Muslim…,0,1801,Sat Oct 27 16:44:15 +0000 2018
-161,1056224984274690048,RT @KagroX: Waiting for Trump's call for armed mosques.,0,35,Sat Oct 27 16:43:54 +0000 2018
-162,1056223817549266945,RT @rebeccakreitzer: @poliscigrl @emayfarris Party for the Disclosure of Information about an Unborn Baby’s Genitalia so Family and Friends…,0,2,Sat Oct 27 16:39:16 +0000 2018
-163,1056223753410093056,Predicting Car Prices Part 1: Linear Regression https://t.co/Itb6Q1yyp2,17,6,Sat Oct 27 16:39:01 +0000 2018
-164,1056223554579062785,"RT @desdemanhattan: Tiroteo en sinagoga de Pittsburgh, última hora:
-- Asesino bajo custodia tras ser herido por la policía. Se sabe por aho…",0,21,Sat Oct 27 16:38:13 +0000 2018
-165,1056223148364853248,RT @GaryRHeaders: What normally happens when we have guests #Bilbo #BorderCollie #dogsoftwitter https://t.co/7Axqoxb8bU,0,2,Sat Oct 27 16:36:36 +0000 2018
-166,1056222723607646209,RT @BoneCanis: One of Mark's sessions from today.  #bordercollie #collie #puppy #dogs https://t.co/DbVo1fm4Rl,0,1,Sat Oct 27 16:34:55 +0000 2018
-167,1056222584902021125,RT @bordercolliefc: Cool Tricks with Coco the Border Collie https://t.co/fELW8UN0IS #bordercollie #Dogs #bordercolliefc https://t.co/zVZS7I…,0,3,Sat Oct 27 16:34:22 +0000 2018
-168,1056222483576045568,Omg it’s a witch https://t.co/jJyGc2i0nE,3,0,Sat Oct 27 16:33:58 +0000 2018
-169,1056222315602620421,RT @corgicrazytime: The face I wake up to! Love my little Jasper! #BorderCollie https://t.co/qtzVXM9eJc,0,4,Sat Oct 27 16:33:18 +0000 2018
-170,1056222159415074816,RT @IBMEmbed: Learn more about #datascience and #deeplearning with presentations from the recent Global Data Science Forum held in Germany…,0,5,Sat Oct 27 16:32:41 +0000 2018
-171,1056221203742916608,"RT @mehdirhasan: Let’s be clear: whoever turns out to have done this shooting in a synagogue, and for whatever motive, the fact is that the…",0,1767,Sat Oct 27 16:28:53 +0000 2018
-172,1056220432242622464,RT @juliaioffe: It starts with anti-Semitic trolls and coded language and it ends in violence. Don’t say I didn’t warn you. Two and a half…,0,3409,Sat Oct 27 16:25:49 +0000 2018
-173,1056214992817668097,"We are almost sold out with only a few days to go until the start of @ODSC West 2018.
-FINAL TICKETS Available: https://t.co/0oqrsQVU40  
-#ODSCWest #DataScience #AI https://t.co/6To6WqVCx4",1,0,Sat Oct 27 16:04:12 +0000 2018
-174,1056214755570966532,"RT @chris_e_larkin: @dataandpolitics Assuming social pressure isn't possible, the next best non-partisan gotv messaging is the idea of grat…",0,1,Sat Oct 27 16:03:15 +0000 2018
-175,1056213941272133632,Comparing AI Strategies – Systems of Intelligence https://t.co/MSUpviMW0A,6,4,Sat Oct 27 16:00:01 +0000 2018
-176,1056210414785171456,How to Treat Missing Values in Your Data https://t.co/XZzcyaQuPj,37,26,Sat Oct 27 15:46:00 +0000 2018
-177,1056206389700452352,"Watch the #ODSCWest 2018 Keynotes Daphne Koller, PhD, Carrie Grimes Bostock and Derek Haoyang Li with our LIVESTREAM Pass on Saturday, Nov. 3
-@DaphneKoller @coursera @Google
-https://t.co/ha9eCS7oOC https://t.co/mX1G9rP98L",1,2,Sat Oct 27 15:30:01 +0000 2018
-178,1056200279610286082,"Learn more about some of the leading research centers and institutions around data science, machine learning, and artificial intelligence in Europe. #DataScience #ODSC #ODSCWest https://t.co/YzPq0WyOV7",5,6,Sat Oct 27 15:05:44 +0000 2018
-179,1056200006418423808,RT @KirkDBorne: Chart Suggestions — a thought-starter for your #DataStorytelling (with a link to the R code for the different visualization…,0,82,Sat Oct 27 15:04:39 +0000 2018
-180,1056199463499313154,RT @schmarzo: Sorry if I'm pounding this point too hard but heart of good #DataScience is asking smart questions in order to set the contex…,0,38,Sat Oct 27 15:02:29 +0000 2018
-181,1056199429261156353,RT @granvilleDSC: 10 Deep Learning Terms Explained in Simple English https://t.co/P9KeQRrRRn,0,13,Sat Oct 27 15:02:21 +0000 2018
-182,1056199387750121474,RT @KirkDBorne: 140 #MachineLearning Formulas for #DataScientists : https://t.co/axS4Pg3fF9 #abdsc #Mathematics #Statistics #BigData #DataS…,0,33,Sat Oct 27 15:02:11 +0000 2018
-183,1056199339960193026,RT @granvilleDSC: R and Python cheatsheets https://t.co/eMIDiwmqTv,0,24,Sat Oct 27 15:02:00 +0000 2018
-184,1056198837302423557,"In partnership with @hackneycouncil and @DianaAward, we're moving away from the old idea of work placement and helping train the next generation of leaders. #NationalMentoringDay https://t.co/FORPf1WVSc",5,3,Sat Oct 27 15:00:00 +0000 2018
-185,1056191290516344833,"Don’t miss your chance to network with 200+ foremost #MachineLearning &amp; #AI experts and 4,000+ other #DataScience professionals. Learn the latest trends, tools and insights at @ODSC West 2018.
-
-Limited Tickets Remaining: https://t.co/bkT31m1FIG    
-#ODSCWest https://t.co/zKdYNgIe5Q",6,5,Sat Oct 27 14:30:01 +0000 2018
-186,1056189275216269312,40 Techniques Used by Data Scientists https://t.co/apEVTtGg5p,60,28,Sat Oct 27 14:22:00 +0000 2018
-187,1056184804239118341,"Here are just a few of the many extremely insightful topic sessions that will presented at @ODSC Accelerate AI business summit in San Francisco,Oct 31- Nov 3.  https://t.co/yPAWF9RZal
-#ODSCWest #AI #ODSC https://t.co/6VdGTafPJh",1,0,Sat Oct 27 14:04:14 +0000 2018
-188,1056184251203379200,Book: Mastering Python for Data Science https://t.co/V9U7OgK7op,10,8,Sat Oct 27 14:02:03 +0000 2018
-189,1056184229728583680,Basics of Bayesian Decision Theory https://t.co/QcRLjoa27n,60,28,Sat Oct 27 14:01:57 +0000 2018
-190,1056179966684078087,"Join ODSC LIVESTREAM &amp; get access to 22 sessions  &amp; 6 keynotes over 2 days
-https://t.co/CmPleeRrRm #ODSC #ODSCWest https://t.co/5KSOr6ITMJ",0,1,Sat Oct 27 13:45:01 +0000 2018
-191,1056178900601131009,RT @betzibetzner: Just published a beginner's guide ro scala https://t.co/d5nRUmg4NG,0,1,Sat Oct 27 13:40:47 +0000 2018
-192,1056178826219319296,"RT @AndiamoHQ: An amazing night with @WeWork @WeWorkUK  and a gorgeous photo of our founders Sam and Naveed with @MiguelMcKelvey, @aplusk,…",0,6,Sat Oct 27 13:40:29 +0000 2018
-193,1056177445563445248,"For WeWork members like Jennifer Charles, Director at @BuildngBlockRes, clothing helps with confidence. ""It affects the way people see me, which I then project back to them.” Here's why we're teaming up with @RenttheRunway to change the future of fashion in the workplace.",13,3,Sat Oct 27 13:35:00 +0000 2018
-194,1056170905485881344,Who says you have to leave the office to immerse yourself in nature? 📷 sailortaylor13 #saturdaymorning https://t.co/huyrcOVYOU,24,3,Sat Oct 27 13:09:01 +0000 2018
-195,1056154565131808769,"Win with AI: Insurance company Guidewell looks to get data for AI. #ODSC #ODSCWest
-https://t.co/zn4hUovWiD",2,0,Sat Oct 27 12:04:05 +0000 2018
-196,1056153542208176128,"Essential math for data science: A curated list including functions, variables, equations, graphs, statistics, linear algebra, calculus, discrete math, optimization, and operation research topics, whew. Check it out here: https://t.co/0JtcPuJ04N via @kdnuggets #datascience https://t.co/E2m2trORG9",12,9,Sat Oct 27 12:00:01 +0000 2018
-197,1056138703519825920,The Mathematics of Machine Learning https://t.co/GUBZVT8NUj,104,45,Sat Oct 27 11:01:03 +0000 2018
-198,1056138701477240833,75 Big Data Terms To Make Your Dad Proud of You on Father's Day https://t.co/mYEx0wO1jK,13,9,Sat Oct 27 11:01:03 +0000 2018
-199,1056124367028002816,"Using AWS DeepLens, you can build a simple face detection application that counts the number of cups of coffee that people drink and displays the tally on a leaderboard. #ODSC #ODSCWest #DataScience https://t.co/RmdZkdwMMh",26,15,Sat Oct 27 10:04:05 +0000 2018
+https://t.co/qSUq76Lnvq",121,20,Thu Nov 08 13:00:20 +0000 2018
+186,1060517363613872128,Welcome to Atlanta https://t.co/EYm2tGsQEi,76,21,Thu Nov 08 13:00:17 +0000 2018
+187,1060517194663112705,RT @maggiekb1: Remember kids: matching names between databases is not easy (if you care about accuracy) https://t.co/lkq35xXNfj,0,15,Thu Nov 08 12:59:37 +0000 2018
+188,1060517110147887104,"Trae Young vs Frank Ntilikina PG Duel 2018.11.07 – Trae With 15-8, CLAMPED By Ntilikina! https://t.co/g9ctbru7i3",2,0,Thu Nov 08 12:59:17 +0000 2018
+189,1060517002404659201,"Democrats did very well in Michigan, Wisconsin and Pennsylvania, which are basically the tipping-point states right now. I posted this map last night, but here's who won each state in the popular vote for the House in each state. Dark blue / dark red = won by at least 5 points. https://t.co/Q7PLB6d4Ob",715,310,Thu Nov 08 12:58:51 +0000 2018
